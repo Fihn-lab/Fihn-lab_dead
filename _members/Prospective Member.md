@@ -1,6 +1,6 @@
 ---
 name: Prospective Member
-image: images/bates.pdf
+image: images/bates.png
 role: prospective student
 group: prospective
 links:
