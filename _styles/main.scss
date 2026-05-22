@@ -6,3 +6,7 @@ main {
   flex-direction: column;
   flex-grow: 1;
 }
+
+.logo img {
+  filter: drop-shadow(0 0 6px rgba(255,255,255,0.6));
+}
