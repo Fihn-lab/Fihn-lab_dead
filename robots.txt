@@ -1,1 +1,0 @@
-Sitemap: https://fihn-lab.github.io/Fihn-lab/sitemap.xml
