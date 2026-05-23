@@ -1,0 +1,30 @@
+.background {
+  position: relative;
+  background: linear-gradient(180deg, #0a1827 0%, #0d2131 45%, #091824 100%);
+  color: var(--text);
+  z-index: 1;
+  overflow: hidden;
+}
+
+.background:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: var(--image);
+  background-size: 1300px;
+  background-repeat: no-repeat;
+  background-position: center 35%;
+  opacity: 0.1;
+  z-index: 0;
+  pointer-events: none;
+  filter: blur(4px) saturate(0.8);
+  mask-image: radial-gradient(circle at center, rgb(0, 0, 0) 35%, rgba(0, 0, 0, 0.75) 55%, rgba(0, 0, 0, 0) 80%);
+  -webkit-mask-image: radial-gradient(circle at center, rgb(0, 0, 0) 35%, rgba(0, 0, 0, 0.75) 55%, rgba(0, 0, 0, 0) 80%);
+}
+
+.background > * {
+  position: relative;
+  z-index: 1;
+}
+
+/*# sourceMappingURL=background.css.map */
