@@ -13,9 +13,11 @@
   position: absolute;
   inset: 0;
   background-image: var(--image);
-  background-size: 1400px;
+  background-size: 2400px;
   background-repeat: no-repeat;
-  background-position: -10% center;
-  opacity: 0.25;
+  background-position: -40% center;
+  opacity: 0.08;
   z-index: -1;
+  filter: saturate(0.9);
+  mix-blend-mode: screen;
 }
