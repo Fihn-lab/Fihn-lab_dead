@@ -5,6 +5,6 @@
 
   # cafihn-debug's Website
 
-  Visit **[fihn-lab.github.io/Fihn-lab](https://fihn-lab.github.io/Fihn-lab)** 🚀
+  Visit **[fihn-lab.github.io/Fihn-lab_dead](https://fihn-lab.github.io/Fihn-lab_dead)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
