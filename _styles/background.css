@@ -11,9 +11,9 @@
   position: absolute;
   inset: 0;
   background-image: var(--image);
-  background-size: 1800px;
+  background-size: 1000px;
   background-repeat: no-repeat;
-  background-position: center 55%;
+  background-position: center 35%;
   opacity: 0.08;
   z-index: -1;
   pointer-events: none;
