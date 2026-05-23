@@ -9,6 +9,10 @@ main {
 
 .logo img {
   filter:
+    brightness(1.18)
+    contrast(1.12)
     drop-shadow(0 0 12px rgba(120,170,255,0.35))
     drop-shadow(0 0 30px rgba(120,170,255,0.15));
+
+  transition: filter 0.3s ease;
 }
